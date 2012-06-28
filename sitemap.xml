@@ -1,11 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://vincenthut.github.com/manty/blog/2012/06/29/hello-man/</loc>
+        <lastmod>2012-06-29T03:50:08+08:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://vincenthut.github.com/manty/blog/2012/06/29/zombie-ninjas-attack-a-survivors-retrospective/
+        </loc>
+        <lastmod>2012-06-29T03:50:38+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://vincenthut.github.com/manty/</loc>
-        <lastmod>2012-06-29T03:43:12+08:00</lastmod>
+        <lastmod>2012-06-29T03:50:38+08:00</lastmod>
     </url>
     <url>
         <loc>http://vincenthut.github.com/manty/blog/archives/</loc>
-        <lastmod>2012-06-29T03:43:12+08:00</lastmod>
+        <lastmod>2012-06-29T03:50:38+08:00</lastmod>
     </url>
 </urlset>

@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://vincenthut.github.com/manty/atom.xml" rel="self"/>
   <link href="http://vincenthut.github.com/manty/"/>
-  <updated>2012-06-29T03:43:47+08:00</updated>
+  <updated>2012-06-29T04:04:58+08:00</updated>
   <id>http://vincenthut.github.com/manty/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://vincenthut.github.com/manty/blog/2012/06/29/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2012-06-29T03:50:00+08:00</updated>
+    <id>http://vincenthut.github.com/manty/blog/2012/06/29/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Man]]></title>
+    <link href="http://vincenthut.github.com/manty/blog/2012/06/29/hello-man/"/>
+    <updated>2012-06-29T03:50:00+08:00</updated>
+    <id>http://vincenthut.github.com/manty/blog/2012/06/29/hello-man</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
